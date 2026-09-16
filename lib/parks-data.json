@@ -1,0 +1,1023 @@
+{
+  "Arbutus Ridge": {
+    "nearbyParkCount": 2,
+    "accessibleParkCount": 1,
+    "totalHectares": 7.75,
+    "closestDistanceKm": 0.472,
+    "parks": [
+      {
+        "name": "Prince Of Wales Park",
+        "area_hectare": 2.89202085957249,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.472,
+        "coordinates": [
+          49.24407815804448,
+          -123.15668566147276
+        ],
+        "facilities": "N",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Trafalgar Park",
+        "area_hectare": 4.86080114853697,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.491,
+        "coordinates": [
+          49.251074155623755,
+          -123.1633992986894
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      }
+    ],
+    "accessibleParks": [
+      {
+        "name": "Quilchena Park",
+        "area_hectare": 7.68619549458187,
+        "classification": "Community",
+        "distanceKm": 0.985,
+        "coordinates": [
+          49.243712981922506,
+          -123.14894920992612
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "Y"
+      }
+    ],
+    "destinationParks": [],
+    "score": 4
+  },
+  "Grandview-Woodland": {
+    "nearbyParkCount": 0,
+    "accessibleParkCount": 0,
+    "totalHectares": 0,
+    "closestDistanceKm": null,
+    "parks": [],
+    "accessibleParks": [],
+    "destinationParks": [],
+    "score": 2
+  },
+  "Killarney": {
+    "nearbyParkCount": 2,
+    "accessibleParkCount": 2,
+    "totalHectares": 13.36,
+    "closestDistanceKm": 0.362,
+    "parks": [
+      {
+        "name": "Captain Cook Park",
+        "area_hectare": 5.49795018174891,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.362,
+        "coordinates": [
+          49.21813778670929,
+          -123.03296846173089
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Champlain Heights Park",
+        "area_hectare": 7.85909219678394,
+        "classification": "Community",
+        "distanceKm": 0.461,
+        "coordinates": [
+          49.2142320371755,
+          -123.03296084229873
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      }
+    ],
+    "accessibleParks": [
+      {
+        "name": "Sparwood Park",
+        "area_hectare": 3.61868118482825,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.698,
+        "coordinates": [
+          49.21967146530073,
+          -123.02893397652673
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Everett Crowley Park",
+        "area_hectare": 38.1747876004295,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.873,
+        "coordinates": [
+          49.20937667650733,
+          -123.04041270011196
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      }
+    ],
+    "destinationParks": [
+      {
+        "name": "Everett Crowley Park",
+        "area_hectare": 38.1747876004295,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.873,
+        "coordinates": [
+          49.20937667650733,
+          -123.04041270011196
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      }
+    ],
+    "score": 4
+  },
+  "Strathcona": {
+    "nearbyParkCount": 2,
+    "accessibleParkCount": 0,
+    "totalHectares": 13.14,
+    "closestDistanceKm": 0.332,
+    "parks": [
+      {
+        "name": "Strathcona Park",
+        "area_hectare": 10.0935812276699,
+        "classification": "Community",
+        "distanceKm": 0.332,
+        "coordinates": [
+          49.275246543493154,
+          -123.08864788625529
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Trillium Park",
+        "area_hectare": 3.04885577488361,
+        "classification": "Community",
+        "distanceKm": 0.474,
+        "coordinates": [
+          49.27539194943289,
+          -123.0931319773855
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      }
+    ],
+    "accessibleParks": [],
+    "destinationParks": [],
+    "score": 5
+  },
+  "Sunset": {
+    "nearbyParkCount": 0,
+    "accessibleParkCount": 2,
+    "totalHectares": 0,
+    "closestDistanceKm": 0.565,
+    "parks": [],
+    "accessibleParks": [
+      {
+        "name": "Sunset Park",
+        "area_hectare": 7.12581499999927,
+        "classification": "Community",
+        "distanceKm": 0.565,
+        "coordinates": [
+          49.222921786907825,
+          -123.09649840113335
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Moberly Park",
+        "area_hectare": 3.60434800565596,
+        "classification": "Community",
+        "distanceKm": 0.594,
+        "coordinates": [
+          49.21558948566867,
+          -123.08544941208551
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      }
+    ],
+    "destinationParks": [],
+    "score": 2
+  },
+  "Hastings-Sunrise": {
+    "nearbyParkCount": 2,
+    "accessibleParkCount": 2,
+    "totalHectares": 8.44,
+    "closestDistanceKm": 0.222,
+    "parks": [
+      {
+        "name": "Hastings Community Park",
+        "area_hectare": 4.19747960248796,
+        "classification": "Community",
+        "distanceKm": 0.222,
+        "coordinates": [
+          49.279927231463844,
+          -123.04049828213661
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Hastings Park - Sanctuary",
+        "area_hectare": 4.2437017650217,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.488,
+        "coordinates": [
+          49.28231018889369,
+          -123.03974274154008
+        ],
+        "facilities": "N",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      }
+    ],
+    "accessibleParks": [
+      {
+        "name": "Slidey Slides",
+        "area_hectare": 6.19868461215964,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.722,
+        "coordinates": [
+          49.28310954465212,
+          -123.03424981115302
+        ],
+        "facilities": "N",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Empire Fields - Hastings Park",
+        "area_hectare": 6.19868461215964,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.743,
+        "coordinates": [
+          49.28294098875249,
+          -123.03348845159239
+        ],
+        "facilities": "N",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      }
+    ],
+    "destinationParks": [],
+    "score": 4
+  },
+  "Kerrisdale": {
+    "nearbyParkCount": 1,
+    "accessibleParkCount": 0,
+    "totalHectares": 4.2,
+    "closestDistanceKm": 0.122,
+    "parks": [
+      {
+        "name": "Maple Grove Park",
+        "area_hectare": 4.204906758789,
+        "classification": "Community",
+        "distanceKm": 0.122,
+        "coordinates": [
+          49.22257881655315,
+          -123.15988134312018
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      }
+    ],
+    "accessibleParks": [],
+    "destinationParks": [],
+    "score": 4
+  },
+  "South Cambie": {
+    "nearbyParkCount": 0,
+    "accessibleParkCount": 4,
+    "totalHectares": 0,
+    "closestDistanceKm": 0.616,
+    "parks": [],
+    "accessibleParks": [
+      {
+        "name": "Queen Elizabeth Park",
+        "area_hectare": 52.9879857264513,
+        "classification": "Destination",
+        "distanceKm": 0.616,
+        "coordinates": [
+          49.24407499232844,
+          -123.11362384483644
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Douglas Park",
+        "area_hectare": 5.33117759879601,
+        "classification": "Community",
+        "distanceKm": 0.788,
+        "coordinates": [
+          49.252627777944205,
+          -123.12258310607103
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Oak Meadows Park",
+        "area_hectare": 4.73593047747582,
+        "classification": "Community",
+        "distanceKm": 0.837,
+        "coordinates": [
+          49.23859774846087,
+          -123.1261876826288
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "Y"
+      },
+      {
+        "name": "Hillcrest Park",
+        "area_hectare": 7.52775182160045,
+        "classification": "Community",
+        "distanceKm": 0.986,
+        "coordinates": [
+          49.24517477130069,
+          -123.10822954860298
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      }
+    ],
+    "destinationParks": [
+      {
+        "name": "Queen Elizabeth Park",
+        "area_hectare": 52.9879857264513,
+        "classification": "Destination",
+        "distanceKm": 0.616,
+        "coordinates": [
+          49.24407499232844,
+          -123.11362384483644
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      }
+    ],
+    "score": 2
+  },
+  "Riley Park": {
+    "nearbyParkCount": 3,
+    "accessibleParkCount": 1,
+    "totalHectares": 16.45,
+    "closestDistanceKm": 0.309,
+    "parks": [
+      {
+        "name": "Riley Park",
+        "area_hectare": 2.70374467009868,
+        "classification": "Community",
+        "distanceKm": 0.309,
+        "coordinates": [
+          49.242105275794344,
+          -123.10435786685034
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Nat Bailey Stadium Park",
+        "area_hectare": 6.22033759694416,
+        "classification": "Destination",
+        "distanceKm": 0.316,
+        "coordinates": [
+          49.24261717151432,
+          -123.10598944258112
+        ],
+        "facilities": "N",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Hillcrest Park",
+        "area_hectare": 7.52775182160045,
+        "classification": "Community",
+        "distanceKm": 0.372,
+        "coordinates": [
+          49.24517477130069,
+          -123.10822954860298
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      }
+    ],
+    "accessibleParks": [
+      {
+        "name": "Queen Elizabeth Park",
+        "area_hectare": 52.9879857264513,
+        "classification": "Destination",
+        "distanceKm": 0.764,
+        "coordinates": [
+          49.24407499232844,
+          -123.11362384483644
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      }
+    ],
+    "destinationParks": [
+      {
+        "name": "Queen Elizabeth Park",
+        "area_hectare": 52.9879857264513,
+        "classification": "Destination",
+        "distanceKm": 0.764,
+        "coordinates": [
+          49.24407499232844,
+          -123.11362384483644
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      }
+    ],
+    "score": 5
+  },
+  "Shaughnessy": {
+    "nearbyParkCount": 0,
+    "accessibleParkCount": 2,
+    "totalHectares": 0,
+    "closestDistanceKm": 0.702,
+    "parks": [],
+    "accessibleParks": [
+      {
+        "name": "Quilchena Park",
+        "area_hectare": 7.68619549458187,
+        "classification": "Community",
+        "distanceKm": 0.702,
+        "coordinates": [
+          49.243712981922506,
+          -123.14894920992612
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "Y"
+      },
+      {
+        "name": "Vandusen Botanical Garden",
+        "area_hectare": 22.3436103405188,
+        "classification": "Destination",
+        "distanceKm": 0.738,
+        "coordinates": [
+          49.239867465007485,
+          -123.13486622277473
+        ],
+        "facilities": "N",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      }
+    ],
+    "destinationParks": [
+      {
+        "name": "Vandusen Botanical Garden",
+        "area_hectare": 22.3436103405188,
+        "classification": "Destination",
+        "distanceKm": 0.738,
+        "coordinates": [
+          49.239867465007485,
+          -123.13486622277473
+        ],
+        "facilities": "N",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      }
+    ],
+    "score": 2
+  },
+  "Victoria-Fraserview": {
+    "nearbyParkCount": 0,
+    "accessibleParkCount": 2,
+    "totalHectares": 0,
+    "closestDistanceKm": 0.558,
+    "parks": [],
+    "accessibleParks": [
+      {
+        "name": "Gordon Park",
+        "area_hectare": 6.89397770904188,
+        "classification": "Community",
+        "distanceKm": 0.558,
+        "coordinates": [
+          49.22270587573488,
+          -123.07061526334519
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Bobolink Park",
+        "area_hectare": 3.83140603974699,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.776,
+        "coordinates": [
+          49.215305190461656,
+          -123.05624596174523
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      }
+    ],
+    "destinationParks": [],
+    "score": 2
+  },
+  "West Point Grey": {
+    "nearbyParkCount": 2,
+    "accessibleParkCount": 2,
+    "totalHectares": 51.95,
+    "closestDistanceKm": 0.202,
+    "parks": [
+      {
+        "name": "Jericho Beach Park",
+        "area_hectare": 48.1970416157871,
+        "classification": "Community",
+        "distanceKm": 0.202,
+        "coordinates": [
+          49.270061123785,
+          -123.20235228897394
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "West Point Grey Park",
+        "area_hectare": 3.74968855289282,
+        "classification": "Community",
+        "distanceKm": 0.228,
+        "coordinates": [
+          49.26644051069164,
+          -123.20439134005323
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      }
+    ],
+    "accessibleParks": [
+      {
+        "name": "Locarno Beach Park",
+        "area_hectare": 14.7235683183755,
+        "classification": "Community",
+        "distanceKm": 0.612,
+        "coordinates": [
+          49.27368459968407,
+          -123.20580806155345
+        ],
+        "facilities": "N",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Locarno Park",
+        "area_hectare": 4.32026908204686,
+        "classification": "Community",
+        "distanceKm": 0.676,
+        "coordinates": [
+          49.27423739841971,
+          -123.20609450734133
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      }
+    ],
+    "destinationParks": [
+      {
+        "name": "Jericho Beach Park",
+        "area_hectare": 48.1970416157871,
+        "classification": "Community",
+        "distanceKm": 0.202,
+        "coordinates": [
+          49.270061123785,
+          -123.20235228897394
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      }
+    ],
+    "score": 9
+  },
+  "Mount Pleasant": {
+    "nearbyParkCount": 0,
+    "accessibleParkCount": 0,
+    "totalHectares": 0,
+    "closestDistanceKm": null,
+    "parks": [],
+    "accessibleParks": [],
+    "destinationParks": [],
+    "score": 2
+  },
+  "Renfrew-Collingwood": {
+    "nearbyParkCount": 1,
+    "accessibleParkCount": 2,
+    "totalHectares": 6.06,
+    "closestDistanceKm": 0.306,
+    "parks": [
+      {
+        "name": "Renfrew Ravine Park",
+        "area_hectare": 6.05874654674536,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.306,
+        "coordinates": [
+          49.24686717514155,
+          -123.04431704239833
+        ],
+        "facilities": "N",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      }
+    ],
+    "accessibleParks": [
+      {
+        "name": "Renfrew Community Park",
+        "area_hectare": 5.01165145425662,
+        "classification": "Community",
+        "distanceKm": 0.573,
+        "coordinates": [
+          49.25207093158358,
+          -123.043318986371
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Slocan Park",
+        "area_hectare": 4.21168215519803,
+        "classification": "Community",
+        "distanceKm": 0.684,
+        "coordinates": [
+          49.24352548042889,
+          -123.04754726859028
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      }
+    ],
+    "destinationParks": [],
+    "score": 2
+  },
+  "West End": {
+    "nearbyParkCount": 0,
+    "accessibleParkCount": 2,
+    "totalHectares": 0,
+    "closestDistanceKm": 0.502,
+    "parks": [],
+    "accessibleParks": [
+      {
+        "name": "English Bay Beach Park",
+        "area_hectare": 9.97202184194711,
+        "classification": "Community",
+        "distanceKm": 0.502,
+        "coordinates": [
+          49.283812285571884,
+          -123.1421143622456
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "Y"
+      },
+      {
+        "name": "Sunset Beach Park",
+        "area_hectare": 3.64185860408422,
+        "classification": "Community",
+        "distanceKm": 0.853,
+        "coordinates": [
+          49.277402996562806,
+          -123.13696252782721
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "Y"
+      }
+    ],
+    "destinationParks": [],
+    "score": 2
+  },
+  "Kensington-Cedar Cottage": {
+    "nearbyParkCount": 1,
+    "accessibleParkCount": 2,
+    "totalHectares": 2.47,
+    "closestDistanceKm": 0.181,
+    "parks": [
+      {
+        "name": "Kingcrest Park",
+        "area_hectare": 2.47407815772448,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.181,
+        "coordinates": [
+          49.24773352941745,
+          -123.07478624845142
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      }
+    ],
+    "accessibleParks": [
+      {
+        "name": "Kensington Park",
+        "area_hectare": 5.76369199231227,
+        "classification": "Community",
+        "distanceKm": 0.909,
+        "coordinates": [
+          49.238845115734655,
+          -123.07640559715499
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "General Brock Park",
+        "area_hectare": 2.11096120680908,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.949,
+        "coordinates": [
+          49.24476860227367,
+          -123.0601488020373
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      }
+    ],
+    "destinationParks": [],
+    "score": 2
+  },
+  "Kitsilano": {
+    "nearbyParkCount": 0,
+    "accessibleParkCount": 2,
+    "totalHectares": 0,
+    "closestDistanceKm": 0.623,
+    "parks": [],
+    "accessibleParks": [
+      {
+        "name": "Connaught Park",
+        "area_hectare": 5.99364508649544,
+        "classification": "Community",
+        "distanceKm": 0.623,
+        "coordinates": [
+          49.262228491884834,
+          -123.16054517716437
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Kitsilano Beach Park",
+        "area_hectare": 13.6013474862508,
+        "classification": "Community",
+        "distanceKm": 0.752,
+        "coordinates": [
+          49.27410295047773,
+          -123.16081610028925
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "Y"
+      }
+    ],
+    "destinationParks": [],
+    "score": 2
+  },
+  "Downtown": {
+    "nearbyParkCount": 0,
+    "accessibleParkCount": 1,
+    "totalHectares": 0,
+    "closestDistanceKm": 0.829,
+    "parks": [],
+    "accessibleParks": [
+      {
+        "name": "Andy Livingstone Park",
+        "area_hectare": 4.21620603889631,
+        "classification": "Community",
+        "distanceKm": 0.829,
+        "coordinates": [
+          49.27854582572806,
+          -123.10564939402607
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      }
+    ],
+    "destinationParks": [],
+    "score": 2
+  },
+  "Marpole": {
+    "nearbyParkCount": 0,
+    "accessibleParkCount": 1,
+    "totalHectares": 0,
+    "closestDistanceKm": 0.627,
+    "parks": [],
+    "accessibleParks": [
+      {
+        "name": "Oak Park",
+        "area_hectare": 5.26027130909045,
+        "classification": "Community",
+        "distanceKm": 0.627,
+        "coordinates": [
+          49.21579027258859,
+          -123.12957349492802
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      }
+    ],
+    "destinationParks": [],
+    "score": 2
+  },
+  "Oakridge": {
+    "nearbyParkCount": 1,
+    "accessibleParkCount": 2,
+    "totalHectares": 5.03,
+    "closestDistanceKm": 0.291,
+    "parks": [
+      {
+        "name": "Tisdall Park",
+        "area_hectare": 5.03215164040145,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.291,
+        "coordinates": [
+          49.22823286485479,
+          -123.12016772521537
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "Y"
+      }
+    ],
+    "accessibleParks": [
+      {
+        "name": "Montgomery Park",
+        "area_hectare": 4.026667424109,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.791,
+        "coordinates": [
+          49.23141582340744,
+          -123.13075796219005
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Columbia Park",
+        "area_hectare": 2.7869190138483,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.932,
+        "coordinates": [
+          49.23173913959759,
+          -123.11313502587727
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      }
+    ],
+    "destinationParks": [],
+    "score": 4
+  },
+  "Dunbar-Southlands": {
+    "nearbyParkCount": 0,
+    "accessibleParkCount": 2,
+    "totalHectares": 0,
+    "closestDistanceKm": 0.616,
+    "parks": [],
+    "accessibleParks": [
+      {
+        "name": "Memorial West Park",
+        "area_hectare": 7.50560613666697,
+        "classification": "Community",
+        "distanceKm": 0.616,
+        "coordinates": [
+          49.24346012840431,
+          -123.18848036582561
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "N"
+      },
+      {
+        "name": "Musqueam Park",
+        "area_hectare": 23.746879997979,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.896,
+        "coordinates": [
+          49.22991565940532,
+          -123.19018065569773
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      }
+    ],
+    "destinationParks": [
+      {
+        "name": "Musqueam Park",
+        "area_hectare": 23.746879997979,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.896,
+        "coordinates": [
+          49.22991565940532,
+          -123.19018065569773
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "N"
+      }
+    ],
+    "score": 2
+  },
+  "Fairview": {
+    "nearbyParkCount": 0,
+    "accessibleParkCount": 4,
+    "totalHectares": 0,
+    "closestDistanceKm": 0.574,
+    "parks": [],
+    "accessibleParks": [
+      {
+        "name": "Sutcliffe Park",
+        "area_hectare": 2.51520320553079,
+        "classification": "Community",
+        "distanceKm": 0.574,
+        "coordinates": [
+          49.26902118389368,
+          -123.13498650792813
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "Y"
+      },
+      {
+        "name": "Charleson Park",
+        "area_hectare": 7.32004019546286,
+        "classification": "Community",
+        "distanceKm": 0.671,
+        "coordinates": [
+          49.26733093913641,
+          -123.12284616643495
+        ],
+        "facilities": "Y",
+        "washrooms": "N",
+        "specialfeatures": "Y"
+      },
+      {
+        "name": "George Wainborn Park",
+        "area_hectare": 2.35705069049606,
+        "classification": "Neighbourhood",
+        "distanceKm": 0.945,
+        "coordinates": [
+          49.27290393797278,
+          -123.1287379503357
+        ],
+        "facilities": "N",
+        "washrooms": "N",
+        "specialfeatures": "Y"
+      },
+      {
+        "name": "David Lam Park",
+        "area_hectare": 3.54907348360547,
+        "classification": "Community",
+        "distanceKm": 0.99,
+        "coordinates": [
+          49.27260631538879,
+          -123.12528432041779
+        ],
+        "facilities": "Y",
+        "washrooms": "Y",
+        "specialfeatures": "Y"
+      }
+    ],
+    "destinationParks": [],
+    "score": 2
+  }
+}

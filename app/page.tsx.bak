@@ -1,0 +1,315 @@
+"use client";
+
+import dynamic from "next/dynamic";
+import { useMemo, useState } from "react";
+import {
+  HOUSING_OPTIONS,
+  PRIORITY_LABELS,
+  PRIORITY_OPTIONS,
+  REASON_OPTIONS,
+  createRecommendations,
+  emptyProfile,
+  type Priority,
+  type UserProfile,
+} from "../lib/recommendations";
+
+const NeighborhoodMap = dynamic(() => import("../components/NeighborhoodMap"), {
+  ssr: false,
+  loading: () => <div className="map-loading">Preparing your Vancouver map…</div>,
+});
+
+const steps = ["Welcome", "Your move", "Priorities", "Results"];
+
+export default function Home() {
+  const [step, setStep] = useState(0);
+  const [profile, setProfile] = useState<UserProfile>(emptyProfile);
+  const [selectedIndex, setSelectedIndex] = useState(0);
+  const [error, setError] = useState("");
+  const recommendations = useMemo(() => createRecommendations(profile), [profile]);
+
+  const update = <K extends keyof UserProfile>(key: K, value: UserProfile[K]) => {
+    setProfile((current) => ({ ...current, [key]: value }));
+    setError("");
+  };
+
+  const validate = () => {
+    if (step === 0 && !profile.firstName.trim()) return "Enter your first name to continue.";
+    if (step === 1 && (!profile.currentCity.trim() || !profile.reason || !profile.housingType))
+      return "Complete all three details about your move.";
+    if (step === 2 && profile.priorities.length === 0) return "Select at least one priority.";
+    return "";
+  };
+
+  const next = () => {
+    const message = validate();
+    if (message) return setError(message);
+    setStep((current) => Math.min(current + 1, 3));
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
+  const restart = () => {
+    setProfile(emptyProfile);
+    setSelectedIndex(0);
+    setError("");
+    setStep(0);
+  };
+
+  return (
+    <main>
+      {step === 0 ? (
+        <>
+          <header className="topbar">
+            <a className="brand" href="#top" aria-label="Neighborhood Analytics home">
+              <span className="brand-mark" aria-hidden="true"><i /><i /><i /><i /></span>
+              <span><b>Neighborhood</b><small>Analytics</small></span>
+            </a>
+            <div className="pilot-status"><span className="live-dot" aria-hidden="true" /><span className="pilot-pill">Vancouver pilot</span></div>
+          </header>
+
+          <section className="login-shell" id="top">
+            <div className="login-hero">
+              <h1>Neighborhood Analytics</h1>
+              <p className="login-byline">by Mumbi Infrastructure Systems Ltd</p>
+              <p>
+                A smarter approach to urban settlement.
+              </p>
+            </div>
+
+            <aside className="login-panel">
+              <div className="login-card">
+                <h2>Log in to Neighborhood Analytics</h2>
+                <label>
+                  Email or mobile number
+                  <input placeholder="Email or mobile number" />
+                </label>
+                <label>
+                  Password
+                  <input type="password" placeholder="Password" />
+                </label>
+                <button className="button login-button" onClick={() => setStep(1)}>Log in</button>
+                <a className="forgot-link" href="#top">Forgot password?</a>
+                <button className="button outline-button" onClick={() => setStep(1)}>Create new account</button>
+              </div>
+            </aside>
+          </section>
+
+        </>
+      ) : (
+        <>
+          <header className="topbar">
+            <a className="brand" href="#top" aria-label="Neighborhood Analytics home">
+              <span className="brand-mark" aria-hidden="true"><i /><i /><i /><i /></span>
+              <span><b>Neighborhood</b><small>Analytics</small></span>
+            </a>
+            <div className="pilot-status"><span className="live-dot" aria-hidden="true" /><span className="pilot-pill">Vancouver pilot</span></div>
+          </header>
+
+          <section className="progress-wrap" aria-label="Your progress">
+            <div className="progress-copy"><span>Step {step + 1} of 4</span><strong>{steps[step]}</strong></div>
+            <div className="progress-track"><span style={{ width: `${((step + 1) / 4) * 100}%` }} /></div>
+          </section>
+
+          {step < 3 ? (
+            <section className="journey" id="top">
+              <div className="intro-panel">
+                <p className="eyebrow">Make your next move feel settled</p>
+                <h1>{step === 0 ? "Find a neighborhood that fits your life." : `Welcome, ${profile.firstName}`}</h1>
+                <p className="lede">
+                  {step === 0
+                    ? "In a galaxy full of options, we are here to make the choice feel right. Tell us more about your move."
+                    : "In a galaxy full of options, we are here to make the choice feel right. Tell us more about your move."}
+                </p>
+                <div className="city-scan" aria-hidden="true"><span className="scan-ring ring-one" /><span className="scan-ring ring-two" /><i className="scan-core" /><i className="scan-node node-one" /><i className="scan-node node-two" /><i className="scan-node node-three" /></div>
+              </div>
+
+              <div className="form-card" key={step}>
+                {step === 0 && <Welcome profile={profile} update={update} />}
+                {step === 1 && <Move profile={profile} update={update} />}
+                {step === 2 && <Priorities profile={profile} />}
+                {error && <p className="form-error" role="alert">{error}</p>}
+                <div className="form-actions">
+                  {step > 0 && <button className="button ghost" onClick={() => setStep(step - 1)}>Back</button>}
+                  <button className="button primary" onClick={next}>{step === 2 ? "See my shortlist" : "Continue"}<span>→</span></button>
+                </div>
+                <p className="privacy-note">No password. No personal data is saved or sent.</p>
+              </div>
+            </section>
+          ) : (
+            <section className="results-page" id="top">
+              <div className="results-heading">
+                <div><p className="eyebrow">Your Vancouver shortlist</p><h1>Three places worth exploring, {profile.firstName}.</h1></div>
+                <p>Ranked around {profile.priorities.map((p) => PRIORITY_LABELS[p].toLowerCase()).join(", ")}. Select a marker or card to compare.</p>
+              </div>
+
+              <div className="demo-notice"><b>Illustrative demo</b><span>Scores and rental ranges are curated examples, not live market or safety advice.</span></div>
+
+              <div className="results-grid">
+                <NeighborhoodMap recommendations={recommendations} selectedIndex={selectedIndex} onSelect={setSelectedIndex} />
+                <aside className="active-summary" aria-live="polite">
+                  <span className="rank-chip">#{selectedIndex + 1} match</span>
+                  <div className="score-ring" style={{ "--score": recommendations[selectedIndex].match } as React.CSSProperties}><b>{recommendations[selectedIndex].match}%</b><small>match</small></div>
+                  <h2>{recommendations[selectedIndex].neighborhood.name}</h2>
+                  <p>{recommendations[selectedIndex].neighborhood.tagline}</p>
+                  <dl><div><dt>Illustrative rent</dt><dd>${recommendations[selectedIndex].neighborhood.rentMin.toLocaleString()}–${recommendations[selectedIndex].neighborhood.rentMax.toLocaleString()}</dd></div><div><dt>Best for</dt><dd>{recommendations[selectedIndex].topCategories.map((p) => PRIORITY_LABELS[p]).join(" · ")}</dd></div></dl>
+                </aside>
+              </div>
+
+              <div className="cards" aria-label="Neighborhood comparisons">
+                {recommendations.map((item, index) => (
+                  <button key={item.neighborhood.id} style={{ "--delay": `${index * 90}ms` } as React.CSSProperties} className={`result-card ${selectedIndex === index ? "selected" : ""}`} onClick={() => setSelectedIndex(index)}>
+                    <div className="card-top"><span>0{index + 1}</span><strong>{item.match}% match</strong></div>
+                    <h3>{item.neighborhood.name}</h3><p>{item.neighborhood.tagline}</p>
+                    <div className="rating-list">
+                      {profile.priorities.map((priority) => <div key={priority}><span>{PRIORITY_LABELS[priority]}</span><i><em style={{ width: `${item.categoryScores[priority] * 10}%` }} /></i><b>{item.categoryScores[priority]}/10</b></div>)}
+                    </div>
+                    <div className="insight good"><span>Why it matches</span><p>{item.why}</p></div>
+                    <div className="insight tradeoff"><span>Consider this</span><p>{item.consider}</p></div>
+                  </button>
+                ))}
+              </div>
+
+              <div className="results-actions"><button className="button ghost" onClick={() => setStep(1)}>← Revise answers</button><button className="button primary" onClick={restart}>Start again</button></div>
+            </section>
+          )}
+        </>
+      )}
+
+      <footer><span>Mumbi Infrastructure Systems Ltd.</span><span>Neighborhood Analytics · 2026</span></footer>
+    </main>
+  );
+}
+
+type Update = <K extends keyof UserProfile>(key: K, value: UserProfile[K]) => void;
+
+function Welcome({ profile, update }: { profile: UserProfile; update: Update }) {
+  return <><p className="step-kicker">Let’s begin</p><h2>What should we call you?</h2><label>First name<input autoFocus autoComplete="given-name" value={profile.firstName} onChange={(e) => update("firstName", e.target.value)} placeholder="e.g. Mumbi" /></label><p className="field-help">We’ll use your name only to personalize this session.</p></>;
+}
+
+function Move({ profile, update }: { profile: UserProfile; update: Update }) {
+  return (
+    <>
+      <p className="step-kicker">Help Me Settle!</p>
+      <div className="from-to-grid">
+        <label>
+          From
+          <input
+            value={profile.currentCity}
+            onChange={(e) => update("currentCity", e.target.value)}
+            placeholder="e.g. Toronto"
+          />
+        </label>
+        <label>
+          To
+          <span className="input-watermark" aria-hidden="true">Vancouver, BC</span>
+          <input
+            value={profile.destination}
+            onChange={(e) => update("destination", e.target.value)}
+            placeholder="e.g. Vancouver, BC"
+            className="watermarked-input"
+          />
+        </label>
+      </div>
+      <fieldset>
+        <legend>Type of house</legend>
+        <div className="option-list">
+          {HOUSING_OPTIONS.map((option) => (
+            <Choice
+              key={option}
+              kind="row"
+              active={profile.housingType === option}
+              onClick={() => update("housingType", option)}
+            >
+              {option}
+            </Choice>
+          ))}
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>Reason for stay</legend>
+        <div className="option-list">
+          {REASON_OPTIONS.map((option) => (
+            <Choice
+              key={option}
+              kind="row"
+              active={profile.reason === option}
+              onClick={() => update("reason", option)}
+            >
+              {option}
+            </Choice>
+          ))}
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>My priority factors</legend>
+        <p className="field-help">Select up to three factors.</p>
+        <div className="option-list factors">
+          {PRIORITY_OPTIONS.map((priority) => (
+            <Choice
+              key={priority}
+              kind="row"
+              active={profile.priorities.includes(priority)}
+              disabled={!profile.priorities.includes(priority) && profile.priorities.length >= 3}
+              onClick={() => {
+                const isSelected = profile.priorities.includes(priority);
+                if (isSelected) {
+                  update("priorities", profile.priorities.filter((item) => item !== priority));
+                } else if (profile.priorities.length < 3) {
+                  update("priorities", [...profile.priorities, priority]);
+                }
+              }}
+            >
+              <span className="priority-icon" aria-hidden="true">
+                {({ affordability: "$", transit: "↗", safety: "◇", greenSpace: "✦", nightlife: "☾", schools: "A", walkability: "◎" } as Record<Priority, string>)[priority]}
+              </span>
+              {PRIORITY_LABELS[priority]}
+            </Choice>
+          ))}
+        </div>
+      </fieldset>
+    </>
+  );
+}
+
+function Priorities({ profile }: { profile: UserProfile }) {
+  const icon = ({ affordability: "$", transit: "↗", safety: "◇", greenSpace: "✦", nightlife: "☾", schools: "A", walkability: "◎" } as Record<Priority, string>);
+  const show = (value: string, icon: string) => (
+    <div className="choice row active" aria-pressed="true">
+      <span className="checkbox" aria-hidden="true">✓</span>
+      <span className="choice-label"><span className="priority-icon" aria-hidden="true">{icon}</span>{value}</span>
+    </div>
+  );
+  return <>
+    <p className="step-kicker">What matters most</p>
+    <h2>Here’s what will shape your shortlist.</h2>
+    <fieldset>
+      <legend>Reason for stay</legend>
+      <div className="option-list">{show(profile.reason, "★")}</div>
+    </fieldset>
+    <fieldset>
+      <legend>Type of house</legend>
+      <div className="option-list">{show(profile.housingType, "⌂")}</div>
+    </fieldset>
+    <fieldset>
+      <legend>My priority factors</legend>
+      {profile.priorities.length > 0 ? (<div className="option-list factors">{profile.priorities.map((priority) => <div key={priority} className="choice row active" aria-pressed="true"><span className="checkbox" aria-hidden="true">✓</span><span className="choice-label"><span className="priority-icon" aria-hidden="true">{icon[priority]}</span>{PRIORITY_LABELS[priority]}</span></div>)}</div>) : (<p className="field-help">No priorities selected yet — head back and pick up to three factors that matter to you.</p>)}
+    </fieldset>
+    <div className="transparency"><b>How ranking works</b><p>Your selected priorities receive the most weight. Budget fit adjusts affordability, while all other categories keep a small baseline influence.</p></div>
+  </>;
+}
+
+function Choice({ kind = "pill", active, disabled, onClick, children }: { kind?: "pill" | "row"; active: boolean; disabled?: boolean; onClick: () => void; children: React.ReactNode }) {
+  return (
+    <button
+      type="button"
+      className={`choice ${kind} ${active ? "active" : ""}`}
+      aria-pressed={active}
+      disabled={disabled}
+      onClick={onClick}
+    >
+      <span className="checkbox" aria-hidden="true">
+        {active ? "✓" : ""}
+      </span>
+      <span className="choice-label">{children}</span>
+    </button>
+  );
+}

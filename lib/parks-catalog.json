@@ -1,0 +1,4046 @@
+[
+  {
+    "name": "5th and Pine",
+    "area_hectare": 0.111427441,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.26688114715941,
+      -123.1428691818419
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "6th and Fir",
+    "area_hectare": 0.134371409447614,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.26649625986585,
+      -123.14150655383698
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Shaughnessy",
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Aberdeen Park",
+    "area_hectare": 0.982303891854303,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Renfrew-Collingwood",
+    "coordinates": [
+      49.23493255223056,
+      -123.02701438866433
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Renfrew-Collingwood"
+    ]
+  },
+  {
+    "name": "Adanac Park",
+    "area_hectare": 4.18034978379804,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Hastings-Sunrise",
+    "coordinates": [
+      49.27614677566587,
+      -123.02537329125653
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Alexandra Park",
+    "area_hectare": 0.548365412155204,
+    "classification": "Local",
+    "officialNeighbourhood": "West End",
+    "coordinates": [
+      49.2856290990293,
+      -123.1422333631603
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Alice Townley Park",
+    "area_hectare": 0.224231163153207,
+    "classification": "Local",
+    "officialNeighbourhood": "Grandview-Woodland",
+    "coordinates": [
+      49.26895697964302,
+      -123.07397487067188
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Almond Park",
+    "area_hectare": 1.6127941185627,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kitsilano",
+    "coordinates": [
+      49.26088015664337,
+      -123.1859477362554
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "West Point Grey",
+      "Kitsilano",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Andy Livingstone Park",
+    "area_hectare": 4.21620603889631,
+    "classification": "Community",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.27854582572806,
+      -123.10564939402607
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Angus Park",
+    "area_hectare": 0.898144104888877,
+    "classification": "Local",
+    "officialNeighbourhood": "Shaughnessy",
+    "coordinates": [
+      49.253746516861334,
+      -123.14381072653761
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Shaughnessy",
+      "Kitsilano",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Arbutus Greenway Park",
+    "area_hectare": 0.687947723971759,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kitsilano",
+    "coordinates": [
+      49.26194949191099,
+      -123.15553120402242
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Shaughnessy",
+      "Kitsilano",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Arbutus Park",
+    "area_hectare": 0.739357266099425,
+    "classification": "Local",
+    "officialNeighbourhood": "Kerrisdale",
+    "coordinates": [
+      49.21631066329443,
+      -123.15500678749338
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Kerrisdale",
+      "Marpole"
+    ]
+  },
+  {
+    "name": "Arbutus Village Park",
+    "area_hectare": 1.41251714423845,
+    "classification": "Local",
+    "officialNeighbourhood": "Arbutus-Ridge",
+    "coordinates": [
+      49.250123917608526,
+      -123.15540835919826
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Shaughnessy",
+      "Kitsilano",
+      "Dunbar-Southlands",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Art Phillips Park",
+    "area_hectare": 0.102943408756443,
+    "classification": "Urban Plaza",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.285838397733215,
+      -123.12030589951227
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Ash Park",
+    "area_hectare": 0.513125315644564,
+    "classification": "Local",
+    "officialNeighbourhood": "Marpole",
+    "coordinates": [
+      49.210155489249736,
+      -123.1195071459903
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "Marpole",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Balaclava Park",
+    "area_hectare": 4.89480292860367,
+    "classification": "Community",
+    "officialNeighbourhood": "Dunbar-Southlands",
+    "coordinates": [
+      49.24515932648913,
+      -123.17556466016838
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Barclay Heritage Square",
+    "area_hectare": 0.63255076039675,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "West End",
+    "coordinates": [
+      49.28679904497346,
+      -123.13197155563884
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Bates Park",
+    "area_hectare": 0.346142084697415,
+    "classification": "Local",
+    "officialNeighbourhood": "Hastings-Sunrise",
+    "coordinates": [
+      49.291924030139285,
+      -123.02457897002563
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Beaconsfield Park",
+    "area_hectare": 4.44201460845122,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Renfrew-Collingwood",
+    "coordinates": [
+      49.25540688102347,
+      -123.05187815120448
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise",
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Bobolink Park",
+    "area_hectare": 3.83140603974699,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Victoria-Fraserview",
+    "coordinates": [
+      49.215305190461656,
+      -123.05624596174523
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Victoria-Fraserview"
+    ]
+  },
+  {
+    "name": "Braemar Park",
+    "area_hectare": 1.25892862318357,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "South Cambie",
+    "coordinates": [
+      49.247637377487415,
+      -123.12392134284649
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "South Cambie",
+      "Riley Park",
+      "Shaughnessy"
+    ]
+  },
+  {
+    "name": "Brewers Park",
+    "area_hectare": 1.38563362514848,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kensington-Cedar Cottage",
+    "coordinates": [
+      49.247717026056236,
+      -123.06627884204393
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Burrard View Park",
+    "area_hectare": 2.76650732359944,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Hastings-Sunrise",
+    "coordinates": [
+      49.291158008080444,
+      -123.0506712325709
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Callister Park",
+    "area_hectare": 1.44933235846117,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Hastings-Sunrise",
+    "coordinates": [
+      49.28626116087527,
+      -123.04560391389369
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Cambie Park",
+    "area_hectare": 0.934209170792763,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Oakridge",
+    "coordinates": [
+      49.221409758306656,
+      -123.11820764960181
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "Marpole",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Cambridge Park",
+    "area_hectare": 0.234979604077005,
+    "classification": "Local",
+    "officialNeighbourhood": "Grandview-Woodland",
+    "coordinates": [
+      49.286218433748424,
+      -123.06236159825973
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Captain Cook Park",
+    "area_hectare": 5.49795018174891,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Killarney",
+    "coordinates": [
+      49.21813778670929,
+      -123.03296846173089
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Killarney"
+    ]
+  },
+  {
+    "name": "Cardero Park",
+    "area_hectare": 0.326007860650418,
+    "classification": "Local",
+    "officialNeighbourhood": "West End",
+    "coordinates": [
+      49.292446997551835,
+      -123.12792980077325
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Cariboo Park",
+    "area_hectare": 0.768041917890097,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Renfrew-Collingwood",
+    "coordinates": [
+      49.24412662365337,
+      -123.02883139390127
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Renfrew-Collingwood"
+    ]
+  },
+  {
+    "name": "Carleton Park",
+    "area_hectare": 0.684148291700649,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Renfrew-Collingwood",
+    "coordinates": [
+      49.24197414554951,
+      -123.03029120518255
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Renfrew-Collingwood"
+    ]
+  },
+  {
+    "name": "Carnarvon Park",
+    "area_hectare": 4.24045333579406,
+    "classification": "Community",
+    "officialNeighbourhood": "Arbutus-Ridge",
+    "coordinates": [
+      49.256717532181284,
+      -123.1720382006709
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "West Point Grey",
+      "Kitsilano",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Carolina Park",
+    "area_hectare": 0.0819068646024165,
+    "classification": "Local",
+    "officialNeighbourhood": "Mount Pleasant",
+    "coordinates": [
+      49.26647472220584,
+      -123.09087098989681
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Cartier Park",
+    "area_hectare": 0.366252255098162,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Riley Park",
+    "coordinates": [
+      49.23769080985129,
+      -123.09754977634074
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "Riley Park",
+      "Kensington-Cedar Cottage",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Cathedral Square",
+    "area_hectare": 0.267489856992021,
+    "classification": "Urban Plaza",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.28247031248833,
+      -123.1137990641482
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "West End",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Cedar Cottage Park",
+    "area_hectare": 0.472500789983627,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kensington-Cedar Cottage",
+    "coordinates": [
+      49.26081098799957,
+      -123.07664668858278
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Chaldecott Park",
+    "area_hectare": 3.45430496204766,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Dunbar-Southlands",
+    "coordinates": [
+      49.24922003431616,
+      -123.19248500915725
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West Point Grey",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Champlain Heights Park",
+    "area_hectare": 7.85909219678394,
+    "classification": "Community",
+    "officialNeighbourhood": "Killarney",
+    "coordinates": [
+      49.2142320371755,
+      -123.03296084229873
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Killarney"
+    ]
+  },
+  {
+    "name": "Charles Park",
+    "area_hectare": 1.5410010545813,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Hastings-Sunrise",
+    "coordinates": [
+      49.27353539368754,
+      -123.02840599958097
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Hastings-Sunrise",
+      "Renfrew-Collingwood"
+    ]
+  },
+  {
+    "name": "Charleson Park",
+    "area_hectare": 7.32004019546286,
+    "classification": "Community",
+    "officialNeighbourhood": "Fairview",
+    "coordinates": [
+      49.26733093913641,
+      -123.12284616643495
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Mount Pleasant",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "China Creek North Park",
+    "area_hectare": 3.17168418169933,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Mount Pleasant",
+    "coordinates": [
+      49.265144689045655,
+      -123.08207173860002
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Riley Park",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "China Creek South Park",
+    "area_hectare": 1.521847190063,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Mount Pleasant",
+    "coordinates": [
+      49.26121702675433,
+      -123.07977368797994
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Riley Park",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Choklit Park",
+    "area_hectare": 0.067336232550298,
+    "classification": "Local",
+    "officialNeighbourhood": "Fairview",
+    "coordinates": [
+      49.26540586985305,
+      -123.12894302548982
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "South Cambie",
+      "Shaughnessy",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Clark Park",
+    "area_hectare": 4.29520261524687,
+    "classification": "Community",
+    "officialNeighbourhood": "Kensington-Cedar Cottage",
+    "coordinates": [
+      49.256911585098635,
+      -123.07166192197785
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Mount Pleasant",
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Clinton Park",
+    "area_hectare": 3.04979991045323,
+    "classification": "Community",
+    "officialNeighbourhood": "Hastings-Sunrise",
+    "coordinates": [
+      49.2706278439464,
+      -123.05099526214522
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise",
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Coal Harbour Park",
+    "area_hectare": 0.95400528754967,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.29037053505391,
+      -123.12503319989355
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Collingwood Park",
+    "area_hectare": 1.27008048720393,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Renfrew-Collingwood",
+    "coordinates": [
+      49.236842248647534,
+      -123.03713841965956
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Victoria-Fraserview",
+      "Renfrew-Collingwood"
+    ]
+  },
+  {
+    "name": "Columbia Park",
+    "area_hectare": 2.7869190138483,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Oakridge",
+    "coordinates": [
+      49.23173913959759,
+      -123.11313502587727
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "South Cambie",
+      "Riley Park",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Connaught Park",
+    "area_hectare": 5.99364508649544,
+    "classification": "Community",
+    "officialNeighbourhood": "Kitsilano",
+    "coordinates": [
+      49.262228491884834,
+      -123.16054517716437
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Shaughnessy",
+      "Kitsilano",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Coopers' Park",
+    "area_hectare": 1.85035727991756,
+    "classification": "Community",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.27347754156425,
+      -123.11390805585611
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "CRAB Park at Portside",
+    "area_hectare": 3.30116665068116,
+    "classification": "Community",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.28544129794094,
+      -123.10173683211602
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Creekside Park",
+    "area_hectare": 2.54091408715624,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.272508142575546,
+      -123.10281642615192
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Creekway Park",
+    "area_hectare": 1.66227389497938,
+    "classification": "Local",
+    "officialNeighbourhood": "Hastings-Sunrise",
+    "coordinates": [
+      49.28825071148113,
+      -123.03482333689418
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "David Lam Park",
+    "area_hectare": 3.54907348360547,
+    "classification": "Community",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.27260631538879,
+      -123.12528432041779
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Mount Pleasant",
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Deering Island Park",
+    "area_hectare": 0.637889872604174,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Dunbar-Southlands",
+    "coordinates": [
+      49.218262345467856,
+      -123.18553777679135
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Kerrisdale",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Delamont Park",
+    "area_hectare": 0.221626264600752,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kitsilano",
+    "coordinates": [
+      49.26616018110693,
+      -123.15167635597965
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Shaughnessy",
+      "Kitsilano",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Devonian Harbour Park",
+    "area_hectare": 4.43633065970916,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.294568492339515,
+      -123.13462877920088
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Devonshire Park",
+    "area_hectare": 1.52738306235884,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Shaughnessy",
+    "coordinates": [
+      49.24522836725952,
+      -123.1336529440811
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "South Cambie",
+      "Shaughnessy"
+    ]
+  },
+  {
+    "name": "Douglas Park",
+    "area_hectare": 5.33117759879601,
+    "classification": "Community",
+    "officialNeighbourhood": "South Cambie",
+    "coordinates": [
+      49.252627777944205,
+      -123.12258310607103
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "South Cambie",
+      "Riley Park",
+      "Shaughnessy",
+      "Mount Pleasant",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Downtown Skateboard Plaza",
+    "area_hectare": 0.277461847316467,
+    "classification": "Urban Plaza",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.277462719951494,
+      -123.10287740814636
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Dusty Greenwell Park",
+    "area_hectare": 0.532331139403908,
+    "classification": "Local",
+    "officialNeighbourhood": "Hastings-Sunrise",
+    "coordinates": [
+      49.29236222239534,
+      -123.04821290885454
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Earles Park",
+    "area_hectare": 1.58944043485345,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Renfrew-Collingwood",
+    "coordinates": [
+      49.23304179665178,
+      -123.04722058888174
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Victoria-Fraserview",
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "East Fraserlands Neighbourhood Park North",
+    "area_hectare": 0.131877062198144,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.207158771339984,
+      -123.03934519072166
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney"
+    ]
+  },
+  {
+    "name": "East Fraserlands Neighbourhood Park South",
+    "area_hectare": 0.119540698,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.205823722915675,
+      -123.0397520236323
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney"
+    ]
+  },
+  {
+    "name": "East Park",
+    "area_hectare": null,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.27057850403077,
+      -123.10404191076857
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Ebisu Park",
+    "area_hectare": 0.420568852866022,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Marpole",
+    "coordinates": [
+      49.2053495559753,
+      -123.13244969446718
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Marpole"
+    ]
+  },
+  {
+    "name": "Eburne Park",
+    "area_hectare": 0.900147022990927,
+    "classification": "Local",
+    "officialNeighbourhood": "Marpole",
+    "coordinates": [
+      49.206326174068614,
+      -123.12933917795148
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Marpole"
+    ]
+  },
+  {
+    "name": "Elm Park",
+    "area_hectare": 1.49434753324888,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kerrisdale",
+    "coordinates": [
+      49.23391016727338,
+      -123.16359367230605
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Kerrisdale",
+      "Shaughnessy",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Emery Barnes Park",
+    "area_hectare": 0.89674284436238,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.27671509087328,
+      -123.12408179015074
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Mount Pleasant",
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Empire Fields - Hastings Park",
+    "area_hectare": 6.19868461215964,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.28294098875249,
+      -123.03348845159239
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "English Bay Beach Park",
+    "area_hectare": 9.97202184194711,
+    "classification": "Community",
+    "officialNeighbourhood": "West End",
+    "coordinates": [
+      49.283812285571884,
+      -123.1421143622456
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Everett Crowley Park",
+    "area_hectare": 38.1747876004295,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Killarney",
+    "coordinates": [
+      49.20937667650733,
+      -123.04041270011196
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Victoria-Fraserview"
+    ]
+  },
+  {
+    "name": "Falaise Park",
+    "area_hectare": 7.5832437727087,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Renfrew-Collingwood",
+    "coordinates": [
+      49.256581721759986,
+      -123.02609787708111
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Hastings-Sunrise",
+      "Renfrew-Collingwood"
+    ]
+  },
+  {
+    "name": "Foster Park",
+    "area_hectare": 0.29582210215001,
+    "classification": "Local",
+    "officialNeighbourhood": "Renfrew-Collingwood",
+    "coordinates": [
+      49.23403528352354,
+      -123.0287195564654
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Renfrew-Collingwood"
+    ]
+  },
+  {
+    "name": "Fraser River Park",
+    "area_hectare": 9.09715443267121,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kerrisdale",
+    "coordinates": [
+      49.20787067796442,
+      -123.14780146228443
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Kerrisdale",
+      "Marpole"
+    ]
+  },
+  {
+    "name": "Fraser River Trail Park",
+    "area_hectare": 0.498919986549244,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.20044706981263,
+      -123.13668616184512
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Kerrisdale",
+      "Marpole"
+    ]
+  },
+  {
+    "name": "Fraserview Park",
+    "area_hectare": 1.27319060314951,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Victoria-Fraserview",
+    "coordinates": [
+      49.21542062494996,
+      -123.0672530459335
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Sunset",
+      "Victoria-Fraserview"
+    ]
+  },
+  {
+    "name": "Garden Park",
+    "area_hectare": 0.969202544796949,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Grandview-Woodland",
+    "coordinates": [
+      49.26823408034699,
+      -123.05917855350322
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise",
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Gaston Park",
+    "area_hectare": 1.50603755345682,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Renfrew-Collingwood",
+    "coordinates": [
+      49.23615785416376,
+      -123.03106013240368
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Renfrew-Collingwood"
+    ]
+  },
+  {
+    "name": "General Brock Park",
+    "area_hectare": 2.11096120680908,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kensington-Cedar Cottage",
+    "coordinates": [
+      49.24476860227367,
+      -123.0601488020373
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "George Park",
+    "area_hectare": 1.43718058214064,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Sunset",
+    "coordinates": [
+      49.21250767091976,
+      -123.0943175513386
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "Marpole"
+    ]
+  },
+  {
+    "name": "George Wainborn Park",
+    "area_hectare": 2.35705069049606,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.27290393797278,
+      -123.1287379503357
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Mount Pleasant",
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Gibby's Field",
+    "area_hectare": null,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.254138968609546,
+      -123.07407899198975
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Gladstone-Riverside Park",
+    "area_hectare": 1.13405742034567,
+    "classification": "Local",
+    "officialNeighbourhood": "Victoria-Fraserview",
+    "coordinates": [
+      49.20576023690028,
+      -123.05947432515772
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Victoria-Fraserview"
+    ]
+  },
+  {
+    "name": "Glen Park",
+    "area_hectare": 1.09383257159134,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kensington-Cedar Cottage",
+    "coordinates": [
+      49.24966869799486,
+      -123.08305286593603
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Riley Park",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Gordon Park",
+    "area_hectare": 6.89397770904188,
+    "classification": "Community",
+    "officialNeighbourhood": "Victoria-Fraserview",
+    "coordinates": [
+      49.22270587573488,
+      -123.07061526334519
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "Victoria-Fraserview",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Grandview Park",
+    "area_hectare": 0.892809659807845,
+    "classification": "Community",
+    "officialNeighbourhood": "Grandview-Woodland",
+    "coordinates": [
+      49.27358828846684,
+      -123.07070029944002
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Hastings-Sunrise",
+      "Mount Pleasant"
+    ]
+  },
+  {
+    "name": "Granville Island Water Park",
+    "area_hectare": 0.264305217455856,
+    "classification": "Community",
+    "officialNeighbourhood": "Fairview",
+    "coordinates": [
+      49.26958567196182,
+      -123.13485190392171
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Granville Loop Park",
+    "area_hectare": 1.05678320404378,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Fairview",
+    "coordinates": [
+      49.26733095937346,
+      -123.13692120792761
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Shaughnessy",
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Granville Park",
+    "area_hectare": 1.96549921143359,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Fairview",
+    "coordinates": [
+      49.25838079537043,
+      -123.1445521317252
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Shaughnessy",
+      "Kitsilano",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Grays Park",
+    "area_hectare": 1.61600307394095,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kensington-Cedar Cottage",
+    "coordinates": [
+      49.241051675923806,
+      -123.0853275185773
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "Riley Park",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Grimmett Park",
+    "area_hectare": 0.24218716850299,
+    "classification": "Local",
+    "officialNeighbourhood": "Riley Park",
+    "coordinates": [
+      49.25401083197076,
+      -123.10211236996363
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "South Cambie",
+      "Riley Park",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Guelph Park",
+    "area_hectare": 1.04386703720056,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Mount Pleasant",
+    "coordinates": [
+      49.264045429921275,
+      -123.0960021415002
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Riley Park",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Habitat Island Park",
+    "area_hectare": 0.602773985182233,
+    "classification": "Community",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.271982661530565,
+      -123.11076955212795
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Hadden Park",
+    "area_hectare": 2.96338837844202,
+    "classification": "Community",
+    "officialNeighbourhood": "Kitsilano",
+    "coordinates": [
+      49.27784453774272,
+      -123.14761550018646
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Harbour Green Park",
+    "area_hectare": 3.20004685826282,
+    "classification": "Community",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.2907614352753,
+      -123.12236626098158
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Hastings Community Park",
+    "area_hectare": 4.19747960248796,
+    "classification": "Community",
+    "officialNeighbourhood": "Hastings-Sunrise",
+    "coordinates": [
+      49.279927231463844,
+      -123.04049828213661
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Hastings Mill Park",
+    "area_hectare": 1.23436895730367,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "West Point Grey",
+    "coordinates": [
+      49.273054209527764,
+      -123.18664088850517
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West Point Grey",
+      "Kitsilano"
+    ]
+  },
+  {
+    "name": "Hastings Park - Italian Garden",
+    "area_hectare": 1.9635740897808,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.283806823304424,
+      -123.04336213774148
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Hastings Park - Sanctuary",
+    "area_hectare": 4.2437017650217,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.28231018889369,
+      -123.03974274154008
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Heather Park",
+    "area_hectare": 0.977890042879704,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "South Cambie",
+    "coordinates": [
+      49.254845004316415,
+      -123.1213025595251
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "South Cambie",
+      "Riley Park",
+      "Shaughnessy",
+      "Mount Pleasant",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Helmcken Park",
+    "area_hectare": 0.173960947650223,
+    "classification": "Urban Plaza",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.2747939889747,
+      -123.11950241076856
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Mount Pleasant",
+      "West End",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Hillcrest Park",
+    "area_hectare": 7.52775182160045,
+    "classification": "Community",
+    "officialNeighbourhood": "Riley Park",
+    "coordinates": [
+      49.24517477130069,
+      -123.10822954860298
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "South Cambie",
+      "Riley Park"
+    ]
+  },
+  {
+    "name": "Humm Park",
+    "area_hectare": 0.4717567926075,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Victoria-Fraserview",
+    "coordinates": [
+      49.21874678350956,
+      -123.06337512957619
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Sunset",
+      "Victoria-Fraserview"
+    ]
+  },
+  {
+    "name": "Jean Beaty Park",
+    "area_hectare": 0.125908311097937,
+    "classification": "Local",
+    "officialNeighbourhood": "West Point Grey",
+    "coordinates": [
+      49.27201635390939,
+      -123.1794340689132
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West Point Grey",
+      "Kitsilano"
+    ]
+  },
+  {
+    "name": "Jericho Beach Park",
+    "area_hectare": 48.1970416157871,
+    "classification": "Community",
+    "officialNeighbourhood": "West Point Grey",
+    "coordinates": [
+      49.270061123785,
+      -123.20235228897394
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West Point Grey",
+      "Kitsilano"
+    ]
+  },
+  {
+    "name": "John Hendry (Trout Lake) Park",
+    "area_hectare": 27.371124266401,
+    "classification": "Community",
+    "officialNeighbourhood": "Kensington-Cedar Cottage",
+    "coordinates": [
+      49.255166911013035,
+      -123.06088348875394
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise",
+      "Mount Pleasant",
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Jonathan Rogers Park",
+    "area_hectare": 1.40231986350514,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Mount Pleasant",
+    "coordinates": [
+      49.26435834496032,
+      -123.10835105182716
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "South Cambie",
+      "Riley Park",
+      "Mount Pleasant",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Jones Park",
+    "area_hectare": 1.42644043734557,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kensington-Cedar Cottage",
+    "coordinates": [
+      49.23604251810647,
+      -123.06642594209708
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "Victoria-Fraserview",
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Kaslo Park",
+    "area_hectare": 0.446881417748184,
+    "classification": "Local",
+    "officialNeighbourhood": "Hastings-Sunrise",
+    "coordinates": [
+      49.26418802546156,
+      -123.0460314352489
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise",
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Kensington Park",
+    "area_hectare": 5.76369199231227,
+    "classification": "Community",
+    "officialNeighbourhood": "Kensington-Cedar Cottage",
+    "coordinates": [
+      49.238845115734655,
+      -123.07640559715499
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "Riley Park",
+      "Victoria-Fraserview",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Kerrisdale Centennial Park",
+    "area_hectare": 1.52878440309112,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kerrisdale",
+    "coordinates": [
+      49.23326000632847,
+      -123.15735866830396
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Kerrisdale",
+      "Shaughnessy",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Kerrisdale Park",
+    "area_hectare": 2.99482702348635,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Shaughnessy",
+    "coordinates": [
+      49.235855465191506,
+      -123.15375080366493
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Kerrisdale",
+      "Shaughnessy",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Killarney Park",
+    "area_hectare": 13.3876831547462,
+    "classification": "Community",
+    "officialNeighbourhood": "Killarney",
+    "coordinates": [
+      49.22781817495897,
+      -123.04237014420681
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Victoria-Fraserview",
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Kingcrest Park",
+    "area_hectare": 2.47407815772448,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kensington-Cedar Cottage",
+    "coordinates": [
+      49.24773352941745,
+      -123.07478624845142
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Kinross Corridor - Middle",
+    "area_hectare": 0.14220669,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.20564942364401,
+      -123.03699056150747
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney"
+    ]
+  },
+  {
+    "name": "Kinross Corridor – North",
+    "area_hectare": 0.097219385,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.20679216006715,
+      -123.03696585577039
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney"
+    ]
+  },
+  {
+    "name": "Kinross Corridor – South",
+    "area_hectare": 0.364521021,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.204697481208235,
+      -123.03723464780674
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney"
+    ]
+  },
+  {
+    "name": "Kinross Ravine Park",
+    "area_hectare": 1.19901528579562,
+    "classification": "Local",
+    "officialNeighbourhood": "Killarney",
+    "coordinates": [
+      49.20706703928774,
+      -123.03614413421178
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney"
+    ]
+  },
+  {
+    "name": "Kitsilano Beach Park",
+    "area_hectare": 13.6013474862508,
+    "classification": "Community",
+    "officialNeighbourhood": "Kitsilano",
+    "coordinates": [
+      49.27410295047773,
+      -123.16081610028925
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Langara Park",
+    "area_hectare": 1.2134519067999,
+    "classification": "Local",
+    "officialNeighbourhood": "Oakridge",
+    "coordinates": [
+      49.22487348950008,
+      -123.11170529482175
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "South Cambie",
+      "Riley Park",
+      "Marpole",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Laurel Landbridge Park",
+    "area_hectare": 0.153937568181927,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.26570496746176,
+      -123.1243062957962
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "South Cambie",
+      "Shaughnessy",
+      "Mount Pleasant",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Lilian To",
+    "area_hectare": 0.0663921115994546,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.25605575523736,
+      -123.11236017443636
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "South Cambie",
+      "Riley Park",
+      "Mount Pleasant",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Locarno Beach Park",
+    "area_hectare": 14.7235683183755,
+    "classification": "Community",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.27368459968407,
+      -123.20580806155345
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West Point Grey"
+    ]
+  },
+  {
+    "name": "Locarno Park",
+    "area_hectare": 4.32026908204686,
+    "classification": "Community",
+    "officialNeighbourhood": "West Point Grey",
+    "coordinates": [
+      49.27423739841971,
+      -123.20609450734133
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West Point Grey"
+    ]
+  },
+  {
+    "name": "MacDonald Park",
+    "area_hectare": 1.0544374799989,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Sunset",
+    "coordinates": [
+      49.22983954133316,
+      -123.09856996174958
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "Riley Park",
+      "Kensington-Cedar Cottage",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Maclean Park",
+    "area_hectare": 1.2100334953523,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.278569642519365,
+      -123.08778661964725
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Main and 7th",
+    "area_hectare": null,
+    "classification": "Urban Plaza",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.264845987202364,
+      -123.10132913555431
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Riley Park",
+      "Mount Pleasant",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Major Matthews Park",
+    "area_hectare": 0.0743320505985351,
+    "classification": "Local",
+    "officialNeighbourhood": "Mount Pleasant",
+    "coordinates": [
+      49.26163554465211,
+      -123.10726460661724
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "South Cambie",
+      "Riley Park",
+      "Mount Pleasant",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Malkin Park",
+    "area_hectare": 2.42654029649267,
+    "classification": "Local",
+    "officialNeighbourhood": "Kerrisdale",
+    "coordinates": [
+      49.231730133720305,
+      -123.17725833129215
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Kerrisdale",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Maple Grove Park",
+    "area_hectare": 4.204906758789,
+    "classification": "Community",
+    "officialNeighbourhood": "Kerrisdale",
+    "coordinates": [
+      49.22257881655315,
+      -123.15988134312018
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Kerrisdale",
+      "Marpole"
+    ]
+  },
+  {
+    "name": "Margaret Pigott Park",
+    "area_hectare": 0.381225714696044,
+    "classification": "Local",
+    "officialNeighbourhood": "Kitsilano",
+    "coordinates": [
+      49.27227161889936,
+      -123.16746052849719
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Kitsilano"
+    ]
+  },
+  {
+    "name": "Marina Square",
+    "area_hectare": 0.631397016454382,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.29257002795581,
+      -123.1311794491682
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Marpole Park",
+    "area_hectare": 0.269432228104611,
+    "classification": "Local",
+    "officialNeighbourhood": "Marpole",
+    "coordinates": [
+      49.20556113457467,
+      -123.13865854396484
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Kerrisdale",
+      "Marpole"
+    ]
+  },
+  {
+    "name": "May & Lorne Brown Park",
+    "area_hectare": 0.251047183350787,
+    "classification": "Local",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.27519345419476,
+      -123.13201576336232
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "McAuley Park",
+    "area_hectare": 0.0841347785964455,
+    "classification": "Local",
+    "officialNeighbourhood": "Mount Pleasant",
+    "coordinates": [
+      49.25705336767159,
+      -123.09000825177387
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Riley Park",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "McBride Park",
+    "area_hectare": 1.71258912160768,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kitsilano",
+    "coordinates": [
+      49.26817623683377,
+      -123.18057531735042
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West Point Grey",
+      "Kitsilano"
+    ]
+  },
+  {
+    "name": "McCleery Park",
+    "area_hectare": 0.251042924201287,
+    "classification": "Local",
+    "officialNeighbourhood": "Kerrisdale",
+    "coordinates": [
+      49.226836165697875,
+      -123.16438267699257
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Kerrisdale",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "McGill Park",
+    "area_hectare": 0.257090567194679,
+    "classification": "Local",
+    "officialNeighbourhood": "Grandview-Woodland",
+    "coordinates": [
+      49.28870942985524,
+      -123.05721646679842
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "McSpadden Park",
+    "area_hectare": 1.62786089009525,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Grandview-Woodland",
+    "coordinates": [
+      49.26593110169215,
+      -123.0669484567892
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Hastings-Sunrise",
+      "Mount Pleasant",
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Melbourne Park",
+    "area_hectare": 0.489274039451405,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Renfrew-Collingwood",
+    "coordinates": [
+      49.23639381774473,
+      -123.02913220901337
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Renfrew-Collingwood"
+    ]
+  },
+  {
+    "name": "Memorial South Park",
+    "area_hectare": 13.7496550353914,
+    "classification": "Community",
+    "officialNeighbourhood": "Sunset",
+    "coordinates": [
+      49.22923152237066,
+      -123.08612417090967
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "Riley Park",
+      "Victoria-Fraserview",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Memorial West Park",
+    "area_hectare": 7.50560613666697,
+    "classification": "Community",
+    "officialNeighbourhood": "Dunbar-Southlands",
+    "coordinates": [
+      49.24346012840431,
+      -123.18848036582561
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Kerrisdale",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Moberly Park",
+    "area_hectare": 3.60434800565596,
+    "classification": "Community",
+    "officialNeighbourhood": "Sunset",
+    "coordinates": [
+      49.21558948566867,
+      -123.08544941208551
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "Victoria-Fraserview"
+    ]
+  },
+  {
+    "name": "Mont Royal Square",
+    "area_hectare": 0.228890080100192,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.21921670512001,
+      -123.03802599004445
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Victoria-Fraserview"
+    ]
+  },
+  {
+    "name": "Montgomery Park",
+    "area_hectare": 4.026667424109,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Oakridge",
+    "coordinates": [
+      49.23141582340744,
+      -123.13075796219005
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Kerrisdale",
+      "South Cambie",
+      "Riley Park",
+      "Shaughnessy",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Morton Park",
+    "area_hectare": 0.219755292302101,
+    "classification": "Local",
+    "officialNeighbourhood": "West End",
+    "coordinates": [
+      49.287230401175734,
+      -123.14213821205598
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Mosaic Creek Park",
+    "area_hectare": 0.113048200001357,
+    "classification": "Local",
+    "officialNeighbourhood": "Grandview-Woodland",
+    "coordinates": [
+      49.2733097591752,
+      -123.0740126319723
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Mount Pleasant"
+    ]
+  },
+  {
+    "name": "Mount Pleasant Park",
+    "area_hectare": 1.11767847030176,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Mount Pleasant",
+    "coordinates": [
+      49.2572070153267,
+      -123.10644560403985
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "South Cambie",
+      "Riley Park",
+      "Mount Pleasant",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Musqueam Park",
+    "area_hectare": 23.746879997979,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Dunbar-Southlands",
+    "coordinates": [
+      49.22991565940532,
+      -123.19018065569773
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Kerrisdale",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Nanaimo Park",
+    "area_hectare": 2.9177726955529,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Victoria-Fraserview",
+    "coordinates": [
+      49.22788485697602,
+      -123.05720040975439
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Victoria-Fraserview",
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Nat Bailey Stadium Park",
+    "area_hectare": 6.22033759694416,
+    "classification": "Destination",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.24261717151432,
+      -123.10598944258112
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "South Cambie",
+      "Riley Park",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Nelson Park",
+    "area_hectare": 1.16578066674781,
+    "classification": "Community",
+    "officialNeighbourhood": "West End",
+    "coordinates": [
+      49.28336410710766,
+      -123.13027080152776
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "New Brighton Park",
+    "area_hectare": 10.3826543929934,
+    "classification": "Community",
+    "officialNeighbourhood": "Hastings-Sunrise",
+    "coordinates": [
+      49.28970775720733,
+      -123.03798779736816
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Norquay Park",
+    "area_hectare": 2.26934887531676,
+    "classification": "Community",
+    "officialNeighbourhood": "Renfrew-Collingwood",
+    "coordinates": [
+      49.23716061117231,
+      -123.05093829164686
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Victoria-Fraserview",
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Oak Meadows Park",
+    "area_hectare": 4.73593047747582,
+    "classification": "Community",
+    "officialNeighbourhood": "South Cambie",
+    "coordinates": [
+      49.23859774846087,
+      -123.1261876826288
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Kerrisdale",
+      "South Cambie",
+      "Riley Park",
+      "Shaughnessy",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Oak Park",
+    "area_hectare": 5.26027130909045,
+    "classification": "Community",
+    "officialNeighbourhood": "Marpole",
+    "coordinates": [
+      49.21579027258859,
+      -123.12957349492802
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Kerrisdale",
+      "Marpole",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Oppenheimer Park",
+    "area_hectare": 0.979110919896282,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Strathcona",
+    "coordinates": [
+      49.282715401110224,
+      -123.09451161674039
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Oxford Park",
+    "area_hectare": 0.2485233187523,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Grandview-Woodland",
+    "coordinates": [
+      49.28556370114857,
+      -123.0619464440049
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Pandora Park",
+    "area_hectare": 1.6669769574966,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Grandview-Woodland",
+    "coordinates": [
+      49.28261374439473,
+      -123.05846190003281
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Park Site on Blenheim",
+    "area_hectare": 0.0673460814993804,
+    "classification": "Local",
+    "officialNeighbourhood": "Arbutus-Ridge",
+    "coordinates": [
+      49.25557473899806,
+      -123.17894643199733
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "West Point Grey",
+      "Kitsilano",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Park Site on Jervis St. @ Pacific St",
+    "area_hectare": 0.0602606376957713,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.280916880371464,
+      -123.13869242526964
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Park Site on Point Grey at Musqueamview St",
+    "area_hectare": 0.213534620949375,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.27177099133653,
+      -123.17618816052276
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West Point Grey",
+      "Kitsilano"
+    ]
+  },
+  {
+    "name": "Park Site on Point Grey at Stephens",
+    "area_hectare": 0.228853028253126,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.27264272113223,
+      -123.16617604687842
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Kitsilano"
+    ]
+  },
+  {
+    "name": "Park Site on Point Grey at Trafalgar",
+    "area_hectare": 0.290316981926542,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.27354632054766,
+      -123.16461780478784
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Kitsilano"
+    ]
+  },
+  {
+    "name": "Park Site On Puget Drive",
+    "area_hectare": 0.0939726481007266,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.24747325046111,
+      -123.16870506704461
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Park Site On Quesnel Drive",
+    "area_hectare": 0.0278941099991238,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.24766486964903,
+      -123.1699647041415
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Park Site On Shaughnessy Street",
+    "area_hectare": 0.562089252341593,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.20204162174288,
+      -123.12479869768381
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Marpole"
+    ]
+  },
+  {
+    "name": "Park Site On South East False Creek (Hinge Park)",
+    "area_hectare": 1.33026787383029,
+    "classification": "Community",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.27109550412659,
+      -123.11023858037838
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Park Site On Trafalgar Street",
+    "area_hectare": 0.136388763151915,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.244415097999244,
+      -123.16484214992983
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Shaughnessy",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Park Site On Trinity Street",
+    "area_hectare": 0.15941836999764,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.28967019628579,
+      -123.05947631753641
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Pioneer Place (Pigeon Park)",
+    "area_hectare": 0.0364088534998457,
+    "classification": "Urban Plaza",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.28173613437318,
+      -123.10458212699116
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Pocket Park",
+    "area_hectare": 0.0659626872004724,
+    "classification": "Urban Plaza",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.27047006674653,
+      -123.10770921138888
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Portal Park",
+    "area_hectare": 0.101357649900289,
+    "classification": "Urban Plaza",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.288040626309844,
+      -123.1191861081187
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Price Park",
+    "area_hectare": 0.351852455756059,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Renfrew-Collingwood",
+    "coordinates": [
+      49.239996691030754,
+      -123.02445037101978
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Renfrew-Collingwood"
+    ]
+  },
+  {
+    "name": "Prince Edward Park",
+    "area_hectare": 1.21630953324147,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Riley Park",
+    "coordinates": [
+      49.25157913150326,
+      -123.09781030447195
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Riley Park",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Prince Of Wales Park",
+    "area_hectare": 2.89202085957249,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.24407815804448,
+      -123.15668566147276
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Shaughnessy",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Promontory Park",
+    "area_hectare": 0.295188037,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.206523903755695,
+      -123.02642160017639
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney"
+    ]
+  },
+  {
+    "name": "Quadra West Park",
+    "area_hectare": 0.14199719360094,
+    "classification": "Local",
+    "officialNeighbourhood": "Dunbar-Southlands",
+    "coordinates": [
+      49.25714867841234,
+      -123.1805773315378
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "West Point Grey",
+      "Kitsilano",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Queen Elizabeth Park",
+    "area_hectare": 52.9879857264513,
+    "classification": "Destination",
+    "officialNeighbourhood": "Riley Park",
+    "coordinates": [
+      49.24407499232844,
+      -123.11362384483644
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "South Cambie",
+      "Riley Park",
+      "Shaughnessy",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Quilchena Park",
+    "area_hectare": 7.68619549458187,
+    "classification": "Community",
+    "officialNeighbourhood": "Arbutus-Ridge",
+    "coordinates": [
+      49.243712981922506,
+      -123.14894920992612
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Kerrisdale",
+      "Shaughnessy"
+    ]
+  },
+  {
+    "name": "Rainbow Park",
+    "area_hectare": null,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.27927010482673,
+      -123.11863392693894
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Mount Pleasant",
+      "West End",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Ravine Park",
+    "area_hectare": 0.921598852954981,
+    "classification": "Local",
+    "officialNeighbourhood": "Arbutus-Ridge",
+    "coordinates": [
+      49.240641080378744,
+      -123.15615121351327
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Kerrisdale",
+      "Shaughnessy",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Renfrew Community Park",
+    "area_hectare": 5.01165145425662,
+    "classification": "Community",
+    "officialNeighbourhood": "Renfrew-Collingwood",
+    "coordinates": [
+      49.25207093158358,
+      -123.043318986371
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Hastings-Sunrise",
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Renfrew Ravine Park",
+    "area_hectare": 6.05874654674536,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Renfrew-Collingwood",
+    "coordinates": [
+      49.24686717514155,
+      -123.04431704239833
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Riley Park",
+    "area_hectare": 2.70374467009868,
+    "classification": "Community",
+    "officialNeighbourhood": "Riley Park",
+    "coordinates": [
+      49.242105275794344,
+      -123.10435786685034
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "South Cambie",
+      "Riley Park",
+      "Kensington-Cedar Cottage",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Riverfront Park",
+    "area_hectare": 4.20510510068736,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Killarney",
+    "coordinates": [
+      49.205598654434425,
+      -123.05278432556658
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Victoria-Fraserview"
+    ]
+  },
+  {
+    "name": "Riverview Park",
+    "area_hectare": 2.38252549921036,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Marpole",
+    "coordinates": [
+      49.212303247066714,
+      -123.14711271118968
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Kerrisdale",
+      "Marpole",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Robson Park",
+    "area_hectare": 1.56399247562851,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Mount Pleasant",
+    "coordinates": [
+      49.25779844712643,
+      -123.09187343605132
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Riley Park",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Rosemary Brown Park",
+    "area_hectare": 0.49468262694921,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kitsilano",
+    "coordinates": [
+      49.26227612921086,
+      -123.15555705290876
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Shaughnessy",
+      "Kitsilano",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Rosemont Park",
+    "area_hectare": 1.36260927315885,
+    "classification": "Local",
+    "officialNeighbourhood": "Killarney",
+    "coordinates": [
+      49.21592067139076,
+      -123.03644313041772
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Killarney",
+      "Victoria-Fraserview"
+    ]
+  },
+  {
+    "name": "Ross Park",
+    "area_hectare": 1.51183460790387,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Sunset",
+    "coordinates": [
+      49.217420714438035,
+      -123.08247603664525
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "Victoria-Fraserview"
+    ]
+  },
+  {
+    "name": "Roundhouse Turntable Plaza",
+    "area_hectare": 0.909772195548736,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.27327431442676,
+      -123.12102057438078
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Mount Pleasant",
+      "West End",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Rupert Park",
+    "area_hectare": 11.8277625682218,
+    "classification": "Community",
+    "officialNeighbourhood": "Hastings-Sunrise",
+    "coordinates": [
+      49.26986659833522,
+      -123.03155731896467
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Hastings-Sunrise",
+      "Renfrew-Collingwood"
+    ]
+  },
+  {
+    "name": "Sahalli Park",
+    "area_hectare": 0.546686346441697,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Mount Pleasant",
+    "coordinates": [
+      49.26384500453381,
+      -123.0891478841204
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Riley Park",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Salsbury Park",
+    "area_hectare": 0.240798879899163,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Grandview-Woodland",
+    "coordinates": [
+      49.27730914446597,
+      -123.06815840501774
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Seaforth Peace Park",
+    "area_hectare": 0.792039950337337,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kitsilano",
+    "coordinates": [
+      49.27142088063596,
+      -123.14610982491487
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Shannon Mews Park",
+    "area_hectare": 0.270797130273111,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.21986155953893,
+      -123.14159844916634
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Kerrisdale",
+      "Marpole",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Shannon Park",
+    "area_hectare": 0.942953390897587,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Marpole",
+    "coordinates": [
+      49.21557482239101,
+      -123.14254455324534
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Kerrisdale",
+      "Marpole",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Shaughnessy Park",
+    "area_hectare": 1.44996469619845,
+    "classification": "Local",
+    "officialNeighbourhood": "Shaughnessy",
+    "coordinates": [
+      49.25565976603171,
+      -123.13512453128236
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "South Cambie",
+      "Shaughnessy",
+      "Kitsilano",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Slidey Slides",
+    "area_hectare": 6.19868461215964,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.28310954465212,
+      -123.03424981115302
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Slocan Park",
+    "area_hectare": 4.21168215519803,
+    "classification": "Community",
+    "officialNeighbourhood": "Renfrew-Collingwood",
+    "coordinates": [
+      49.24352548042889,
+      -123.04754726859028
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Spanish Banks Beach Park",
+    "area_hectare": 6.51051419072075,
+    "classification": "Community",
+    "officialNeighbourhood": "West Point Grey",
+    "coordinates": [
+      49.276635691940044,
+      -123.21798641469375
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West Point Grey"
+    ]
+  },
+  {
+    "name": "Spanish Banks Extension",
+    "area_hectare": 7.9936236572,
+    "classification": "Community",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.27871157299221,
+      -123.23095610500772
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West Point Grey"
+    ]
+  },
+  {
+    "name": "Sparwood Park",
+    "area_hectare": 3.61868118482825,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Killarney",
+    "coordinates": [
+      49.21967146530073,
+      -123.02893397652673
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Killarney"
+    ]
+  },
+  {
+    "name": "Stanley Park",
+    "area_hectare": 417.949256543,
+    "classification": "Destination",
+    "officialNeighbourhood": "West End",
+    "coordinates": [
+      49.30499348654586,
+      -123.14026493479642
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Strathcona Linear Park",
+    "area_hectare": 0.504358705177785,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Strathcona",
+    "coordinates": [
+      49.278397176197245,
+      -123.08739098569016
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Strathcona Park",
+    "area_hectare": 10.0935812276699,
+    "classification": "Community",
+    "officialNeighbourhood": "Strathcona",
+    "coordinates": [
+      49.275246543493154,
+      -123.08864788625529
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Street End - Wall St @ Cambridge",
+    "area_hectare": 0.0505047743680204,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.28662336264415,
+      -123.06111238864588
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Street End - Wall St @ Kamloops",
+    "area_hectare": 0.134623071049017,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.29147428038533,
+      -123.05451735976476
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Street End - Wall St @ Nanaimo",
+    "area_hectare": 0.0635006651718064,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.29095202527232,
+      -123.05652628176487
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Street End - Wall St @ Penticton",
+    "area_hectare": 0.105088128997134,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.2919124850262,
+      -123.05197161955796
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Street End - Wall St @ Renfrew",
+    "area_hectare": 0.0956773358296964,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.291188353872705,
+      -123.04413403103179
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Street End - Wall St @ Slocan",
+    "area_hectare": 0.117238139622514,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.2924205061443,
+      -123.04932060238288
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Sun Hop Park",
+    "area_hectare": 0.160724411382015,
+    "classification": "Urban Plaza",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.25508235615673,
+      -123.10127375267652
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "South Cambie",
+      "Riley Park",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Sun Yat-sen Gardens Park",
+    "area_hectare": 0.813574951450618,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.2797035789895,
+      -123.10331917640721
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Sunnyside Park",
+    "area_hectare": 1.13307155216794,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kensington-Cedar Cottage",
+    "coordinates": [
+      49.255006654723736,
+      -123.08092159722901
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Riley Park",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Sunrise Park",
+    "area_hectare": 3.18355643291169,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Hastings-Sunrise",
+    "coordinates": [
+      49.26680420763638,
+      -123.03537431985426
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Hastings-Sunrise",
+      "Renfrew-Collingwood"
+    ]
+  },
+  {
+    "name": "Sunset Beach Park",
+    "area_hectare": 3.64185860408422,
+    "classification": "Community",
+    "officialNeighbourhood": "West End",
+    "coordinates": [
+      49.277402996562806,
+      -123.13696252782721
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Sunset Park",
+    "area_hectare": 7.12581499999927,
+    "classification": "Community",
+    "officialNeighbourhood": "Sunset",
+    "coordinates": [
+      49.222921786907825,
+      -123.09649840113335
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "Marpole",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Sutcliffe Park",
+    "area_hectare": 2.51520320553079,
+    "classification": "Community",
+    "officialNeighbourhood": "Fairview",
+    "coordinates": [
+      49.26902118389368,
+      -123.13498650792813
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Tatlow Park",
+    "area_hectare": 1.40219082924921,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Kitsilano",
+    "coordinates": [
+      49.270267303803195,
+      -123.16933889887984
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Kitsilano"
+    ]
+  },
+  {
+    "name": "Tea Swamp Park",
+    "area_hectare": 0.263113005955819,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Mount Pleasant",
+    "coordinates": [
+      49.25725190667949,
+      -123.0986841788152
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Riley Park",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Tecumseh Park",
+    "area_hectare": 2.09567433113939,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Victoria-Fraserview",
+    "coordinates": [
+      49.22990626342616,
+      -123.07010440358142
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "Victoria-Fraserview",
+      "Renfrew-Collingwood",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Templeton Park",
+    "area_hectare": 1.93138910630386,
+    "classification": "Community",
+    "officialNeighbourhood": "Grandview-Woodland",
+    "coordinates": [
+      49.278439756574755,
+      -123.0590044578162
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Hastings-Sunrise"
+    ]
+  },
+  {
+    "name": "Thornton Park",
+    "area_hectare": 1.63924104732479,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Strathcona",
+    "coordinates": [
+      49.27518953227778,
+      -123.09872322530006
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Thunderbird Park",
+    "area_hectare": 0.894318008948723,
+    "classification": "Local",
+    "officialNeighbourhood": "Hastings-Sunrise",
+    "coordinates": [
+      49.268878603998864,
+      -123.02870023953973
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Hastings-Sunrise",
+      "Renfrew-Collingwood"
+    ]
+  },
+  {
+    "name": "Tisdall Park",
+    "area_hectare": 5.03215164040145,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Oakridge",
+    "coordinates": [
+      49.22823286485479,
+      -123.12016772521537
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "South Cambie",
+      "Riley Park",
+      "Shaughnessy",
+      "Marpole",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Trafalgar Park",
+    "area_hectare": 4.86080114853697,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Arbutus-Ridge",
+    "coordinates": [
+      49.251074155623755,
+      -123.1633992986894
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Shaughnessy",
+      "Kitsilano",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Triangle Park",
+    "area_hectare": 0.0499283381657422,
+    "classification": "Urban Plaza",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.27204327094106,
+      -123.10803285986344
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Trillium Park",
+    "area_hectare": 3.04885577488361,
+    "classification": "Community",
+    "officialNeighbourhood": "Strathcona",
+    "coordinates": [
+      49.27539194943289,
+      -123.0931319773855
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Mount Pleasant",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Valdez Park",
+    "area_hectare": 0.768324970009133,
+    "classification": "Local",
+    "officialNeighbourhood": "Dunbar-Southlands",
+    "coordinates": [
+      49.25242944534845,
+      -123.1767355451885
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "West Point Grey",
+      "Kitsilano",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Vandusen Botanical Garden",
+    "area_hectare": 22.3436103405188,
+    "classification": "Destination",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.239867465007485,
+      -123.13486622277473
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Arbutus Ridge",
+      "Kerrisdale",
+      "South Cambie",
+      "Riley Park",
+      "Shaughnessy",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Vanier Park",
+    "area_hectare": 21.3292127621418,
+    "classification": "Destination",
+    "officialNeighbourhood": "Kitsilano",
+    "coordinates": [
+      49.27424426741708,
+      -123.13970448559616
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Vanier Park (Cultural Harmony Grove)",
+    "area_hectare": 0.294016995132363,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.274363612626445,
+      -123.13897372691446
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Victoria Park",
+    "area_hectare": 0.88988691539931,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Grandview-Woodland",
+    "coordinates": [
+      49.27175883306951,
+      -123.06684491714734
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Hastings-Sunrise",
+      "Mount Pleasant"
+    ]
+  },
+  {
+    "name": "Victory Square",
+    "area_hectare": 0.389492830002349,
+    "classification": "Urban Plaza",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.282253069004405,
+      -123.11005338727708
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Mount Pleasant",
+      "West End",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "Volunteer Park",
+    "area_hectare": 0.724990335300634,
+    "classification": "Local",
+    "officialNeighbourhood": "Kitsilano",
+    "coordinates": [
+      49.27133930020606,
+      -123.1692731094281
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Kitsilano"
+    ]
+  },
+  {
+    "name": "W.C. Shelly Park",
+    "area_hectare": 0.298329953955506,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Grandview-Woodland",
+    "coordinates": [
+      49.26301052256503,
+      -123.07269010092917
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona",
+      "Mount Pleasant",
+      "Kensington-Cedar Cottage"
+    ]
+  },
+  {
+    "name": "Wendy Poole Park",
+    "area_hectare": 0.0374575997909643,
+    "classification": "Local",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.28430190383215,
+      -123.09965782196007
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Strathcona",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "West End minipark - BROUGHTON ST @ NELSON ST",
+    "area_hectare": 0.0801406927277624,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.28564819214684,
+      -123.13338920272338
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "West End minipark - BUTE ST @ HARO ST",
+    "area_hectare": 0.080243032216717,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.285095996522976,
+      -123.1283913685334
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "West End minipark - CARDERO ST @ BURNABY ST",
+    "area_hectare": 0.0802685045648375,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.284693406677945,
+      -123.13949620683465
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "West End minipark - CARDERO ST @ COMOX ST",
+    "area_hectare": 0.0809134165487322,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.28639579147171,
+      -123.13684958385417
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "West End minipark - CHILCO ST @ COMOX ST",
+    "area_hectare": 0.0803500225716637,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.29079981765024,
+      -123.14232378743199
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "West End minipark - GILFORD ST @ HARO ST",
+    "area_hectare": 0.0800950798861754,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.29199580586864,
+      -123.1377216033136
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "West End minipark - JERVIS ST @ BURNABY ST",
+    "area_hectare": 0.0801096984124133,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.281943210980906,
+      -123.136265791651
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "West End minipark - NICOLA ST @ PENDRELL ST",
+    "area_hectare": 0.0800881698909632,
+    "classification": "Local",
+    "officialNeighbourhood": null,
+    "coordinates": [
+      49.28500418421553,
+      -123.13669381931985
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West End",
+      "Kitsilano",
+      "Downtown"
+    ]
+  },
+  {
+    "name": "West Point Grey Park",
+    "area_hectare": 3.74968855289282,
+    "classification": "Community",
+    "officialNeighbourhood": "West Point Grey",
+    "coordinates": [
+      49.26644051069164,
+      -123.20439134005323
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "West Point Grey",
+      "Dunbar-Southlands"
+    ]
+  },
+  {
+    "name": "Westmount Park",
+    "area_hectare": 0.396767665005199,
+    "classification": "Local",
+    "officialNeighbourhood": "West Point Grey",
+    "coordinates": [
+      49.271959764479305,
+      -123.21447323038073
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "West Point Grey"
+    ]
+  },
+  {
+    "name": "William Mackie Park",
+    "area_hectare": 0.408517737453421,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Marpole",
+    "coordinates": [
+      49.2068061863551,
+      -123.14307954992867
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Kerrisdale",
+      "Marpole"
+    ]
+  },
+  {
+    "name": "Willow Park",
+    "area_hectare": 0.0714000475007253,
+    "classification": "Local",
+    "officialNeighbourhood": "Fairview",
+    "coordinates": [
+      49.26487348274491,
+      -123.12207879437157
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "South Cambie",
+      "Shaughnessy",
+      "Mount Pleasant",
+      "Downtown",
+      "Fairview"
+    ]
+  },
+  {
+    "name": "Winona Park",
+    "area_hectare": 5.32244852615064,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Marpole",
+    "coordinates": [
+      49.21575681305079,
+      -123.1142657079403
+    ],
+    "isMajor": true,
+    "nearbyNeighbourhoods": [
+      "Sunset",
+      "Marpole",
+      "Oakridge"
+    ]
+  },
+  {
+    "name": "Woodland Park",
+    "area_hectare": 1.58340644005436,
+    "classification": "Neighbourhood",
+    "officialNeighbourhood": "Grandview-Woodland",
+    "coordinates": [
+      49.27867128063357,
+      -123.07357224971072
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Grandview-Woodland",
+      "Strathcona"
+    ]
+  },
+  {
+    "name": "Yaletown Park",
+    "area_hectare": 0.139191955619241,
+    "classification": "Urban Plaza",
+    "officialNeighbourhood": "Downtown",
+    "coordinates": [
+      49.277009619200356,
+      -123.11889676082498
+    ],
+    "isMajor": false,
+    "nearbyNeighbourhoods": [
+      "Mount Pleasant",
+      "West End",
+      "Downtown",
+      "Fairview"
+    ]
+  }
+]
